@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_service</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#2B78FF" offset="0%"></stop>
+            <stop stop-color="#4DBDFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#ADDCFF" offset="0%"></stop>
+            <stop stop-color="#EAF6FF" offset="50.28%"></stop>
+            <stop stop-color="#EAF6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_service" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="customer-service" fill-rule="nonzero">
+            <path d="M270,225 L306,200 L270,165 C270,107.103 222.897,60 165,60 C107.103,60 60,107.103 60,165 L36,200 L60,225 C60,253.43 85.29,300.696 120,319.195 L120,330 L75,330 C54.962,330 36.086,338.022 21.847,352.588 C7.759,367.001 0,385.97 0,406 L0,497 C0,505.284 6.716,512 15,512 L285,512 L285,330 L210,330 L210,319.195 C244.616,300.746 270,253.449 270,225 Z M360,389 L360,452 L423,452 L423,389 L360,389 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M165,30 C229.198,30 283.068,75.046 296.677,135.188 C281.693,136.848 270,149.582 270,165 L270,225 C270,241.542 283.458,255 300,255 C316.542,255 330,241.542 330,225 L330,165 C330,74.019 255.981,0 165,0 C74.019,0 0,74.019 0,165 L0,255 C0,279.813 20.187,300 45,300 L165,300 C173.284,300 180,293.284 180,285 C180,276.716 173.284,270 165,270 L45,270 C36.729,270 30,263.271 30,255 C46.542,255 60,241.542 60,225 L60,165 C60,149.582 48.307,136.848 33.323,135.188 C46.933,75.046 100.802,30 165,30 Z M497,330 L285,330 C276.716,330 270,336.716 270,345 L270,497 C270,505.284 276.716,512 285,512 L497,512 C505.284,512 512,505.284 512,497 L512,345 C512,336.716 505.284,330 497,330 Z M391,436 C382.716,436 376,429.284 376,421 C376,412.716 382.716,406 391,406 C399.284,406 406,412.716 406,421 C406,429.284 399.284,436 391,436 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

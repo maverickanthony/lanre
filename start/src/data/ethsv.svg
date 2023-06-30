@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>logo / coin / flat / eth</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo-/-coin-/-flat-/-eth" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="mask-copy-2" x="0" y="0" width="21.3333333" height="21.3333333"></rect>
+        <g id="Group">
+            <circle id="Oval-4" fill="#E0E0E0" opacity="0.800000012" cx="16" cy="16" r="16"></circle>
+            <g id="Ethereum_logo_2014" transform="translate(8.444444, 3.555556)" fill-rule="nonzero">
+                <polygon id="Shape" fill="#343434" points="7.55325937 0 7.38827674 0.567013056 7.38827674 17.0204189 7.55325937 17.1869416 15.1065719 12.6724434"></polygon>
+                <polygon id="Shape" fill="#8C8C8C" points="7.5533125 0 0 12.6724434 7.5533125 17.1870013 7.5533125 9.20101039"></polygon>
+                <polygon id="Shape" fill="#3C3C3B" points="7.55325937 18.6330398 7.46029062 18.7476361 7.46029062 24.6087009 7.55325937 24.8833143 15.111058 14.1208096"></polygon>
+                <polygon id="Shape" fill="#8C8C8C" points="7.5533125 24.8832307 7.5533125 18.6329562 0 14.120726"></polygon>
+                <polygon id="Shape" fill="#141414" points="7.55325938 17.1869237 15.1064538 12.6724852 7.55325938 9.20105217"></polygon>
+                <polygon id="Shape" fill="#393939" points="5.3125e-05 12.6724911 7.55324757 17.1869297 7.55324757 9.20105814"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

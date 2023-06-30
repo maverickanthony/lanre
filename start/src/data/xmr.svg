@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>logo / coin / flat / xmr</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo-/-coin-/-flat-/-xmr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Monero-Logo">
+            <circle id="Oval-4" fill="#FFFFFF" cx="16" cy="16" r="16"></circle>
+            <path d="M15.9997832,5.68434189e-14 C7.16506564,5.68434189e-14 0,7.1643247 0,15.9996315 C0,17.7659991 0.28615172,19.4647297 0.815098839,21.0537668 L5.59990245,21.0537668 L5.59990245,7.59182556 L15.9997832,17.9918895 L26.399664,7.59182556 L26.399664,21.0537668 L31.1849012,21.0537668 C31.7138483,19.4647297 32,17.7659991 32,15.9996315 C32,7.1643247 24.8349344,5.68434189e-14 15.9997832,5.68434189e-14" id="path22" fill="#FF6600" fill-rule="nonzero"></path>
+            <path d="M9.06988226,15.8438495 L9.06988226,24.3145231 L2.32797431,24.3145231 C5.1365968,28.9225141 10.2092864,32 15.9995231,32 C21.7897598,32 26.8628829,28.9225141 29.6710718,24.3145231 L22.9295975,24.3145231 L22.9295975,15.8438495 L15.9995231,22.7740459 L9.06988226,15.8438495 Z" id="path26" fill="#4C4C4C" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
